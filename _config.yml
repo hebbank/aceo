@@ -19,3 +19,5 @@ github_username:  jekyllwriter
 gems: [jekyll-paginate]
 markdown: kramdown
 baseurl: "/aceo"
+
+theme: jekyll-theme-slate
